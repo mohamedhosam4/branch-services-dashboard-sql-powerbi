@@ -60,6 +60,6 @@ CREATE DATABASE ServiceBranchDB;
 
 ---
 
-**Author**: [Your Name]  
-**LinkedIn**: [Your LinkedIn URL]  
+**Author**: [Mohamed Hosam Othman]  
+**LinkedIn**: [www.linkedin.com/in/mohamed-hosam-ai]  
 **GitHub**: [https://github.com/mohamedhosam4](https://github.com/mohamedhosam4)
